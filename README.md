@@ -14,7 +14,16 @@
 + Windows 10 TH1 build 10240;
 + Windows 10 TH2 build 10586;
 + Windows 10 RS1 build 14393;
-+ Windows 10 RS2 build 15063.
++ Windows 10 RS2 build 15063;
++ Windows 10 RS3 build 16299;
++ Windows 10 RS4 build 17134;
++ Windows 10 RS5 build 17763;
++ Windows 10 19H1 build 18252;
++ Windows 10 19H1 build 18267;
++ Windows 10 19H1 build 18272;
++ Windows 10 19H1 build 18282;
++ Windows 10 19H1 build 18290;
++ Windows 10 19H1 build 18298.
 
 ** located in Tables\ntos
 
@@ -27,7 +36,16 @@
 + Windows 10 TH1 build 10240;
 + Windows 10 TH2 build 10586;
 + Windows 10 RS1 build 14393;
-+ Windows 10 RS2 build 15063.
++ Windows 10 RS2 build 15063;
++ Windows 10 RS3 build 16299;
++ Windows 10 RS4 build 17134;
++ Windows 10 RS5 build 17763;
++ Windows 10 19H1 build 18252;
++ Windows 10 19H1 build 18267;
++ Windows 10 19H1 build 18272;
++ Windows 10 19H1 build 18282;
++ Windows 10 19H1 build 18290;
++ Windows 10 19H1 build 18298.
 
 ** located in Tables\win32k
 
@@ -46,10 +64,12 @@ Run Examples:
 
 # Build
 
-Composer source code written in C#. In order to build from source you need Microsoft Visual Studio version 2013 and higher and .NET Framework version 4.5 and higher. SyscallGenerator source code written in C++ by gr8. In order to build from source you need Microsoft Visual Studio version 2010 and higher. It is using VC runtime. Included as tribute to author.
+Composer source code written in C#. In order to build from source you need Microsoft Visual Studio version 2013 and higher and .NET Framework version 4.5 and higher. Both scg and wscg source code written in C. In order to build from source you need Microsoft Visual Studio version 2013/2015 and higher.
 
 # Authors
 
-+ sstComposer (c) 2016 - 2017 SyscallTables Project
-+ wscg64 (c) 2016 SyscallTables Project, portions (c) 2010 deroko of ARTeam
-+ scg (c) 2011 gr8
++ scg (c) 2018 SyscallTables Project
++ sstComposer (c) 2016 - 2018 SyscallTables Project
++ wscg64 (c) 2016 - 2018 SyscallTables Project, portions (c) 2010 deroko of ARTeam
+
+Original scg (c) 2011 gr8
